@@ -16,11 +16,11 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
  
-## Heading ##
-  > CrowdComputing - Kickstarter, but you donate computing power instead of money
+## CrowdComputing ##
+  > Kickstarter, but you donate computing power instead of money
 
-## Sub-Heading ##
-  > People who want to their computer's free computing power to charitable/scientific causes
+## Donate computing power ##
+  > Engaged samaritans who want to donate their computer's free computing power to charitable/scientific causes
 
 ## Summary ##
   > So you know Kickstarter? That site where you give money to cool projects? Well, our product lets you donate COMPUTING POWER to cool projects. You simply download our software, select which project you want to donate to, set your preferences for how much and when your computer will donate its computing power, and you're done! Want to help Stanford analyze protein folding? Want to help SETI analyze signals for possible extraterrestial life forms? Want to help the CDC track and predict the spread of Ebola? Then use our product!
