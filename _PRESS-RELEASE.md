@@ -23,7 +23,7 @@ Once the project moves into development, the press release can be used as a touc
   > Engaged samaritans who want to donate their computer's free computing power to charitable/scientific causes
 
 ## Summary ##
-  > CrowdCrunch allows users to donate computing power to interesting scientific projects. They simply download our Mac app, select which project they want to donate to, set their preferences for how much and when their computer will donate its computing power, and they're done! Want to help Stanford analyze protein folding? Want to help SETI analyze signals for possible extraterrestial life forms? Want to help the CDC track and predict the spread of Ebola? Then use our product!
+  > CrowdCrunch allows users to donate computing power to interesting scientific projects. They simply download our Mac app, select which project they want to donate to, set their preferences for how much and when their computer will be active, and they're done! Want to help Stanford analyze protein folding? Want to help SETI analyze signals for possible extraterrestial life forms? Want to help the CDC track and predict the spread of Ebola? Then use our product! [these last three sentences can probably be cut]
 
 
 
