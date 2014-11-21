@@ -17,28 +17,22 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## CrowdComputing ##
-  > Kickstarter, but you donate computing power instead of money
+  > A distributed computing platform, crowdsourcing computing power for scientific projects
 
 ## Donate computing power ##
   > Engaged samaritans who want to donate their computer's free computing power to charitable/scientific causes
 
 ## Summary ##
-  > So you know Kickstarter? That site where you give money to cool projects? Well, our product lets you donate COMPUTING POWER to cool projects. You simply download our software, select which project you want to donate to, set your preferences for how much and when your computer will donate its computing power, and you're done! Want to help Stanford analyze protein folding? Want to help SETI analyze signals for possible extraterrestial life forms? Want to help the CDC track and predict the spread of Ebola? Then use our product!
+  > CrowdCrunch allows users to donate computing power to interesting scientific projects. They simply download our Mac app, select which project they want to donate to, set their preferences for how much and when their computer will donate its computing power, and they're done! Want to help Stanford analyze protein folding? Want to help SETI analyze signals for possible extraterrestial life forms? Want to help the CDC track and predict the spread of Ebola? Then use our product!
+
+
 
 ## Problem ##
-  > For Researchers: Many scientific problems require immense computing power, but they don't have access to the kind of datacenters and supercomputers that Google does. 
+  > For Researchers: Many scientific problems require immense computing power, but they don't have access to the kind of datacenters and supercomputers Google does. 
   For Users: Traditional charities get lots of attention and donations, but longer-term scientific research projects don't. Many users want to help these projects, but have few avenues to do so.
 ## Solution ##
-  > CrowdComputing! Connect engaged samaritans with smart researchers. This is going to cure Cancer! and AIDS! and World Hunger! 
-
-## Quote from You ##
-  > "Man I wish my computer could do bigger things!! I always wanted my computer to contribute to the greater good. I have a super fast computer and I only use it for 5 or 6 hours a day" - Ralph
+  > Crowdsource computing power by connecting engaged samaritans with researchers. 
 
 ## How to Get Started ##
-  > One click!. lol, no. It's actually pretty complicated, but never fear, gentle user! we will guide you through the barren landscape of distributed computing and make the whole process easy. 
+  > Browse projects and download our app on CrowdCrunch.io
 
-## Customer Quote ##
-  > "Can I stream porn on this?" - Kevin
-
-## Closing and Call to Action ##
-  > Help us cure Cancer! What, you won't help us? Well you're a really shitty person then. Seriously, who doesn't want to cure Cancer?
